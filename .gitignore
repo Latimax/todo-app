@@ -43,4 +43,4 @@ app-example
 /android
 
 # firebase credentials
-/app/services/firebase.js
+app/services/firebase.js
